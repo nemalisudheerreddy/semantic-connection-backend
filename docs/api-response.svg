@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420" viewBox="0 0 860 420" role="img" aria-labelledby="title desc">
+  <title id="title">API response example</title>
+  <desc id="desc">Visual card showing an example JSON response from the backend.</desc>
+  <rect width="860" height="420" rx="28" fill="#f8fafc"/>
+  <rect x="60" y="50" width="740" height="320" rx="22" fill="#111827"/>
+  <text x="100" y="105" font-family="Courier New, monospace" font-size="28" fill="#e5eefc">{</text>
+  <text x="130" y="150" font-family="Courier New, monospace" font-size="24" fill="#93c5fd">"message"</text>
+  <text x="265" y="150" font-family="Courier New, monospace" font-size="24" fill="#e5eefc">: "Hello, Sudheer! Your FastAPI backend is working.",</text>
+  <text x="130" y="205" font-family="Courier New, monospace" font-size="24" fill="#93c5fd">"received_name"</text>
+  <text x="345" y="205" font-family="Courier New, monospace" font-size="24" fill="#e5eefc">: "Sudheer",</text>
+  <text x="130" y="260" font-family="Courier New, monospace" font-size="24" fill="#93c5fd">"timestamp"</text>
+  <text x="290" y="260" font-family="Courier New, monospace" font-size="24" fill="#e5eefc">: "2026-10-11T22:00:00+00:00"</text>
+  <text x="100" y="315" font-family="Courier New, monospace" font-size="28" fill="#e5eefc">}</text>
+</svg>
